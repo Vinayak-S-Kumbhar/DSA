@@ -7,6 +7,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 ## Two Pointers
@@ -17,6 +18,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -26,8 +28,17 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
