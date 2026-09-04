@@ -15,6 +15,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -23,10 +24,12 @@ Theas are my Leed code DSA problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -52,6 +55,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
