@@ -26,6 +26,7 @@ Theas are my Leed code DSA problems
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -62,6 +63,7 @@ Theas are my Leed code DSA problems
 | [0020-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -73,4 +75,5 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
