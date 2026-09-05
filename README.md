@@ -19,6 +19,7 @@ Theas are my Leed code DSA problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -58,6 +59,7 @@ Theas are my Leed code DSA problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -67,4 +69,8 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
