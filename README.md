@@ -32,6 +32,7 @@ Theas are my Leed code DSA problems
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -47,6 +48,7 @@ Theas are my Leed code DSA problems
 | [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Theas are my Leed code DSA problems
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
@@ -96,4 +99,5 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
