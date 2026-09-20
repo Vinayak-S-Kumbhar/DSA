@@ -42,6 +42,7 @@ Theas are my Leed code DSA problems
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Theas are my Leed code DSA problems
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
