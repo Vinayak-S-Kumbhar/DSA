@@ -10,6 +10,7 @@ Theas are my Leed code DSA problems
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 ## Two Pointers
@@ -57,6 +58,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,4 +114,20 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0015-3sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
