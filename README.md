@@ -13,6 +13,7 @@ Theas are my Leed code DSA problems
 | [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## String
