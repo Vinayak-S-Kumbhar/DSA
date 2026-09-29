@@ -73,6 +73,7 @@ Theas are my Leed code DSA problems
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3870-count-commas-in-range) |
@@ -97,6 +98,7 @@ Theas are my Leed code DSA problems
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
