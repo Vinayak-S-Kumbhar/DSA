@@ -6,7 +6,7 @@ class Solution {
     }
 
     public int climbStairsFun(int n, int frist , int second) {
-        if(n < 3) return second;
+        if(n <= 2) return second;
 
         int therd = frist + second;
         return climbStairsFun(n - 1, second, therd);
