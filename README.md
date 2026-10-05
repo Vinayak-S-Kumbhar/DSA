@@ -65,6 +65,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -75,6 +76,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -143,5 +145,6 @@ Theas are my Leed code DSA problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
