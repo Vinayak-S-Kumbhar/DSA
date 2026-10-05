@@ -66,6 +66,7 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -100,6 +102,7 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
