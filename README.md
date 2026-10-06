@@ -35,6 +35,7 @@ Theas are my Leed code DSA problems
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -92,6 +93,7 @@ Theas are my Leed code DSA problems
 | [0402-remove-k-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -111,6 +113,7 @@ Theas are my Leed code DSA problems
 | [0020-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
@@ -121,6 +124,7 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
