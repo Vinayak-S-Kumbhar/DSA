@@ -66,6 +66,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
@@ -77,6 +78,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
@@ -151,4 +153,8 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
