@@ -13,6 +13,7 @@ Theas are my Leed code DSA problems
 | [0198-house-robber](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0735-asteroid-collision) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -159,4 +160,8 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
