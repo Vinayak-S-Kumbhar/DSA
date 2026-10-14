@@ -86,6 +86,7 @@ Theas are my Leed code DSA problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -131,6 +132,7 @@ Theas are my Leed code DSA problems
 | [0402-remove-k-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
