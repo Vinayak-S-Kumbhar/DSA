@@ -111,6 +111,7 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
@@ -166,4 +167,8 @@ Theas are my Leed code DSA problems
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
