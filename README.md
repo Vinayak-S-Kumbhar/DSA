@@ -105,6 +105,7 @@ Theas are my Leed code DSA problems
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
