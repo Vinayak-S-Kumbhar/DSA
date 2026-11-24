@@ -175,5 +175,6 @@ Theas are my Leed code DSA problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Vinayak-S-Kumbhar/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
