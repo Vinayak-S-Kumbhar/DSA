@@ -14,45 +14,10 @@ public class Solution {
         ListNode currA = headA;
         ListNode currB = headB;
 
-        int sizeA = 0;
-        int sizeB = 0;
-        while (currA != null) {
-            sizeA++;
-            currA = currA.next;
+        while (currA != currB) {
+            currA = currA == null ? headA : currA.next;
+            currB = currB == null ? headB : currB.next;
         }
-        while (currB != null) {
-            sizeB++;
-            currB = currB.next;
-        }
-
-        currA = headA;
-        currB = headB;
-
-        if (sizeA > sizeB) {
-            int n = sizeA - sizeB;
-
-            while (n != 0) {
-                currA = currA.next;
-                n--;
-            }
-        } else {
-            int n = sizeB - sizeA;
-
-            while (n != 0) {
-                currB = currB.next;
-                n--;
-            }
-        }
-
-        while (currA != null && currB != null) {
-            if (currA == currB) {
-                return currA;
-            }
-
-            currA = currA.next;
-            currB = currB.next;
-        }
-
-        return null;
+        return currA;
     }
 }
